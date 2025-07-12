@@ -1,1 +1,2 @@
 # Fake-News-Prediction
+Fake news prediction using machine learning involves training algorithms to classify news articles as either fake or real based on their textual content. In this project, we utilize three popular supervised learning models—Random Forest, Decision Tree, and Logistic Regression—to address the problem. The workflow begins with collecting and preprocessing a labeled dataset of news articles, where text cleaning and feature extraction.
